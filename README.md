@@ -1,12 +1,12 @@
 # Innovation as a Measure of Economic Growth
 
-An interactive data-storytelling project exploring whether innovation helps explain why some countries become richer than others.
+An interactive data-storytelling project and linear regression paper exploring whether innovation helps explain why some countries become richer than others.
 
 [View the live website](https://7thcapitalist.github.io/Innovation-as-a-measure-of-economic-growth/)
 
 ## Overview
 
-This project studies the relationship between economic prosperity, innovation capacity, and research and development investment across countries. It uses GDP per capita as the main measure of economic outcome, the Global Innovation Index as a measure of innovation performance, and R&D expenditure as a policy-relevant input into innovation.
+This project studies the relationship between economic prosperity, innovation capacity, and research and development investment across countries. It was used as the foundation for a linear regression paper, using GDP per capita as the main measure of economic outcome, the Global Innovation Index as a measure of innovation performance, and R&D expenditure as a policy-relevant input into innovation.
 
 The central question is:
 
@@ -59,6 +59,7 @@ https://7thcapitalist.github.io/Innovation-as-a-measure-of-economic-growth/
 
 - HTML
 - Bootstrap
+- Visualizations created in Python
 - Interactive embedded visualizations
 - World Bank GDP data
 - Global Innovation Index data
@@ -66,4 +67,4 @@ https://7thcapitalist.github.io/Innovation-as-a-measure-of-economic-growth/
 
 ## Author
 
-Built by [7thcapitalist](https://github.com/7thcapitalist).
+Built by [7thcapitalist](https://github.com/7thcapitalist) and Yujun Chen.
