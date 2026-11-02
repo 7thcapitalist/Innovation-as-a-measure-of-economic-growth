@@ -21,6 +21,18 @@ The central question is:
 - Which countries convert R&D investment into innovation more efficiently
 - Regional patterns in innovation, investment, and prosperity
 
+## Status
+
+Finished academic project (Dec 2025). It is a static site, so there is nothing to build.
+
+## Run Locally
+
+```bash
+git clone https://github.com/7thcapitalist/Innovation-as-a-measure-of-economic-growth
+cd Innovation-as-a-measure-of-economic-growth
+# open index.html in a browser
+```
+
 ## Live Website
 
 The project is published with GitHub Pages:
@@ -59,7 +71,7 @@ https://7thcapitalist.github.io/Innovation-as-a-measure-of-economic-growth/
 
 - HTML
 - Bootstrap
-- Visualizations created in Python
+- Charts exported as images and interactive HTML (`images/`, `Visualizations/`)
 - Interactive embedded visualizations
 - World Bank GDP data
 - Global Innovation Index data
